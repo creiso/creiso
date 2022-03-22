@@ -10,7 +10,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=creiso&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creiso&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="843" height="600" src="https://static.wixstatic.com/media/87b4fe_b80130286a8e4a0b8a4a0e68e62c624f~mv2.gif">
+  <img align="center" width="843" height="200" src="https://static.wixstatic.com/media/87b4fe_b80130286a8e4a0b8a4a0e68e62c624f~mv2.gif">
 </div>
  <br>
 <div  align="center"> 
