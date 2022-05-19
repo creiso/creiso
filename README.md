@@ -3,14 +3,15 @@
 
 <h2>🧑‍🎓 Estudante de Engenharia de Software</h2>
 <h2>👨‍💻 Gestor de Marketing Digital</h2>
-<div
+ <img align="center" width="820" height="200" src="![87b4fe_b96c3c195ef84fb992f979fc1bd23ad5_mv2](https://user-images.githubusercontent.com/77426031/169195454-c678eada-5d4f-45d5-90df-6bead212fee6.gif)">
+
 
 <div  align="center">
   <a href="https://github.com/creiso">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=creiso&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creiso&layout=compact&langs_count=7&theme=blue-green" />
 
-  <img align="center" width="840" height="200" src="https://static.wixstatic.com/media/87b4fe_b80130286a8e4a0b8a4a0e68e62c624f~mv2.gif">
+ 
 </div>
  <br>
 <div  align="center"> 
