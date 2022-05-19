@@ -3,7 +3,6 @@
 
 <h2>🧑‍🎓 Estudante de Engenharia de Software</h2>
 <h2>👨‍💻 Gestor de Marketing Digital</h2>
- <img align="center" width="820" height="200" src="![87b4fe_b96c3c195ef84fb992f979fc1bd23ad5_mv2](https://user-images.githubusercontent.com/77426031/169195454-c678eada-5d4f-45d5-90df-6bead212fee6.gif)">
 
 
 <div  align="center">
