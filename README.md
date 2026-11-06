@@ -3,13 +3,6 @@
 
 <h2>🧑‍🎓 Estudante de Engenharia de Software</h2>
 <h2>👨‍💻 Senior em Marketing</h2>
-
-
-<div  align="center">
-  <a href="https://github.com/creiso">
-  <img height="180em"   align="center" src="e	https://crm-consorcio-seven.vercel.app/onioncrm.png"/>
-  <img height="180em"  align="center" src="e	https://crm-consorcio-seven.vercel.app/onioncrm.png" />
-
  
 </div>
  <br>
