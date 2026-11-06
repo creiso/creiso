@@ -7,7 +7,7 @@
 
 <div  align="center">
   <a href="https://github.com/creiso">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=creiso&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="e	https://crm-consorcio-seven.vercel.app/onioncrm.png"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creiso&layout=compact&langs_count=7&theme=blue-green" />
 
  
