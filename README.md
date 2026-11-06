@@ -2,7 +2,7 @@
 <H1>Olá 👋 Eu Sou Cleison 👨‍💻</H1>
 
 <h2>🧑‍🎓 Estudante de Engenharia de Software</h2>
-<h2>👨‍💻 Gestor de Marketing Digital</h2>
+<h2>👨‍💻 Senior em Marketing</h2>
 
 
 <div  align="center">
